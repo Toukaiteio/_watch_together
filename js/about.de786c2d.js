@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkwatch_together"]=self["webpackChunkwatch_together"]||[]).push([[443],{7381:function(t,e,n){n.r(e),n.d(e,{default:function(){return f}});var a=n(3396);const r={class:"about"},u=(0,a._)("h1",null,"This is an about page",-1),c=[u];function s(t,e){return(0,a.wg)(),(0,a.iD)("div",r,c)}var h=n(89);const o={},i=(0,h.Z)(o,[["render",s]]);var f=i}}]);
+//# sourceMappingURL=about.de786c2d.js.map
